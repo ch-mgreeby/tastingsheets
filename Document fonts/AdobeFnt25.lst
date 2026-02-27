@@ -1,0 +1,394 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ACaslonPro-SemiboldItalic
+FamilyName:Adobe Caslon Pro
+StyleName:Semibold Italic
+MenuName:Adobe Caslon Pro
+StyleBits:3
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Adobe Caslon Pro Semibold Italic
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/ACaslonPro-SemiboldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:170172
+FileModTime:785736060
+NameArray:0,Mac,18,Adobe Caslon Pro SmBd Italic
+NameArray:0,Mac,4,Adobe Caslon Pro Semibold Italic
+NameArray:0,Win,1,Adobe Caslon Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/AdobeFnt25.lst
+FileLength:9037
+FileModTime:792348816
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LibreFranklin-Bold
+FamilyName:Libre Franklin
+StyleName:Bold
+MenuName:Libre Franklin
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Libre Franklin Bold
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/LibreFranklin-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:64232
+FileModTime:785797740
+NameArray:0,Win,1,Libre Franklin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LibreFranklin-Italic
+FamilyName:Libre Franklin
+StyleName:Italic
+MenuName:Libre Franklin
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Libre Franklin Italic
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/LibreFranklin-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:69376
+FileModTime:785797740
+NameArray:0,Win,1,Libre Franklin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LibreFranklin-Light
+FamilyName:Libre Franklin
+StyleName:Light
+MenuName:Libre Franklin Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Libre Franklin Light
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/LibreFranklin-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:64276
+FileModTime:785797740
+NameArray:0,Win,1,Libre Franklin Light
+NameArray:0,Win,16,Libre Franklin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LibreFranklin-Regular
+FamilyName:Libre Franklin
+StyleName:Regular
+MenuName:Libre Franklin
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Libre Franklin Regular
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/LibreFranklin-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:64292
+FileModTime:785797740
+NameArray:0,Win,1,Libre Franklin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:790108445
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oswald-SemiBold
+FamilyName:Oswald
+StyleName:SemiBold
+MenuName:Oswald SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Oswald SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/Oswald-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:87608
+FileModTime:785736060
+NameArray:0,Win,1,Oswald SemiBold
+NameArray:0,Win,16,Oswald
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Italic
+FamilyName:Playfair Display
+StyleName:Italic
+MenuName:Playfair Display
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Playfair Display Italic
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/PlayfairDisplay-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:177976
+FileModTime:785736060
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Regular
+FamilyName:Playfair Display
+StyleName:Regular
+MenuName:Playfair Display
+FamilyPrefix:PlayfairDisplayRoman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Playfair Display Regular
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/PlayfairDisplay-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:298268
+FileModTime:785736060
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville
+FamilyName:Baskerville
+StyleName:Regular
+MenuName:Baskerville
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Baskerville
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/Baskerville.ttc
+TTCOffset:48
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1373016
+FileModTime:778147153
+NameArray:0,Mac,4,Baskerville
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-Bold
+FamilyName:Baskerville
+StyleName:Bold
+MenuName:Baskerville
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Baskerville Bold
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/Baskerville.ttc
+TTCOffset:284
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1373016
+FileModTime:778147153
+NameArray:0,Mac,4,Baskerville Bold
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-BoldItalic
+FamilyName:Baskerville
+StyleName:Bold Italic
+MenuName:Baskerville
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Baskerville Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/Baskerville.ttc
+TTCOffset:772
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1373016
+FileModTime:778147153
+NameArray:0,Mac,4,Baskerville Bold Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-Italic
+FamilyName:Baskerville
+StyleName:Italic
+MenuName:Baskerville
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Baskerville Italic
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/Baskerville.ttc
+TTCOffset:520
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1373016
+FileModTime:778147153
+NameArray:0,Mac,4,Baskerville Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-SemiBold
+FamilyName:Baskerville
+StyleName:SemiBold
+MenuName:Baskerville
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Baskerville SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/Baskerville.ttc
+TTCOffset:1024
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1373016
+FileModTime:778147153
+NameArray:0,Mac,4,Baskerville SemiBold
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-SemiBoldItalic
+FamilyName:Baskerville
+StyleName:SemiBold Italic
+MenuName:Baskerville
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Baskerville SemiBold Italic
+WritingScript:Roman
+OutlineFileName:/Users/mejackson/Desktop/For Server/0326_CH_Tasting_Sheets_Variety_Sweet_Lux Folder/Document fonts/Baskerville.ttc
+TTCOffset:1260
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1373016
+FileModTime:778147153
+NameArray:0,Mac,4,Baskerville SemiBold Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
